@@ -11,8 +11,10 @@ export default defineUserConfig({
   description: "Among Us Mod 优秀领导者",
   bundler: viteBundler(),
   theme: recoTheme({
-    home: '/index.md',
-    repo: 'XtremeWave/TownOfNewEpic_XtremeSite',
+    home: 'index.md',
+    primaryColor: '#ceffff',
+    catalogTitle: '目录',
+    repo: 'XtremeWave/XtremeWaveite',
     docsRepo: 'https://github.com/XtremeWave/XtremeWaveSite',
     docsBranch: 'main',
     style: "@vuepress-reco/style-default",
@@ -43,6 +45,13 @@ export default defineUserConfig({
        },
      ],
     },
+    friendshipLinks: [
+      {
+        title: 'TONEX',
+        logo: 'https://cn-sy1.rains3.com/xtremewave/TONEX.jpg',
+        link: 'https://tonex.cc',
+      },
+    ],
     //commentConfig: {
     //  type: 'valine',
     //  options: {
