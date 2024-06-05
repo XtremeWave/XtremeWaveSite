@@ -17,6 +17,7 @@ export default defineUserConfig({
     repo: 'XtremeWave/XtremeWaveite',
     docsRepo: 'https://github.com/XtremeWave/XtremeWaveSite',
     docsBranch: 'main',
+    lastUpdated: 'false',
     style: "@vuepress-reco/style-default",
     logo: "https://cn-sy1.rains3.com/xtremewave/XtremeWave.png",
     author: "XtremeWave",
@@ -28,7 +29,7 @@ export default defineUserConfig({
      body: [
        {
          type: "text",
-         content: `XtremeWaveWebSite 6.0上线辣!<br>6.0主要与TONEX官方网站统一风格,其余改动也不是很大。`,
+         content: `XtremeWaveWebSite 6.0上线辣!<br>感谢您的支持!`,
          style: "font-size: 12px;",
        },
        {
@@ -50,6 +51,10 @@ export default defineUserConfig({
         title: 'TONEX',
         logo: 'https://cn-sy1.rains3.com/xtremewave/TONEX.jpg',
         link: 'https://tonex.cc',
+      },
+      {
+        title: 'TOHEX',
+        link: 'https://tohex.cc',
       },
     ],
     //commentConfig: {

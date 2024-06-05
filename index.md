@@ -16,7 +16,7 @@ bannerBrand:
     - { text: XW项目, link: 'https://pre.xtreme.net.cn/friendship-link.html', type: 'plain'}
 features:
 - title: TOHEX
-  details: 为继承TOHE而衍生的分支
+  details: 为延续TOHE的香火而衍生的分支
 - title: TONEX
   details: Host only mod for Among Us, forked from Town Of Next
 - title: USF
