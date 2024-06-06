@@ -3,6 +3,7 @@ home: true
 modules:
   - BannerBrand
   - Features
+  - Blog
   - MdContent
   - Footer
 bannerBrand:
@@ -21,7 +22,7 @@ features:
   details: Host only mod for Among Us, forked from Town Of Next
 - title: USF
   details: 你我同为繁星,可愿逆命改世?众生皆承疾苦,希望何时重归?
-footer:
+footer: 
   startYear: 2024
 ---
 <div align="center">
