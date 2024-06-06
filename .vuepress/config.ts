@@ -12,7 +12,7 @@ export default defineUserConfig({
   bundler: viteBundler(),
   theme: recoTheme({
     home: 'index.md',
-    primaryColor: '#ceffff',
+    primaryColor: '#59a3e2',
     catalogTitle: '目录',
     repo: 'XtremeWave/XtremeWaveite',
     docsRepo: 'https://github.com/XtremeWave/XtremeWaveSite',
@@ -24,6 +24,15 @@ export default defineUserConfig({
     authorAvatar: "https://cn-sy1.rains3.com/xtremewave/XtremeWave.png",
     navbar: [
       {text: '首页', link: '/'},
+      {text: '关于', link: '/about'},
+      {text: '赞助', link: '/donate'},
+      {
+        text: 'XtremeWave项目',
+        children: [
+          {text: 'TOHEX', link: 'https://tonex.cc'},
+          {text: 'TONEX', link: 'https://tohex.cc'},
+        ],
+      },
     ],
     bulletin: {
      body: [
@@ -54,6 +63,7 @@ export default defineUserConfig({
       },
       {
         title: 'TOHEX',
+        logo: 'https://cn-sy1.rains3.com/xtremewave/XtremeWave.png',
         link: 'https://tohex.cc',
       },
     ],
