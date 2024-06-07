@@ -35,25 +35,21 @@ export default defineUserConfig({
       },
     ],
     bulletin: {
-     body: [
-       {
-         type: "text",
-         content: `XtremeWaveWebSite 6.0上线辣!<br>感谢您的支持!`,
-         style: "font-size: 12px;",
-       },
-       {
-         type: "hr",
-       },
-       {
-         type: "buttongroup",
-         children: [
-           {
-             text: "赞助",
-             link: "https://www.xtreme.net.cn/donate",
-           },
-         ],
-       },
-     ],
+      body: [
+        { type: 'title', content: 'XtremeWave网站开发招募' },
+        {
+          type: 'text',
+          content: `在您阅读完<a herf="https://www.xtreme.net.cn/933187.html">本文章</a>后,请联系QingFeng。`,
+          style: 'font-size: 12px;'
+        },
+        { type: 'hr' },
+        {
+          type: 'buttongroup',
+          children: [
+            { text: '打赏', link: '/donate' }
+          ]
+        }
+      ],
     },
     friendshipLinks: [
       {
@@ -67,17 +63,5 @@ export default defineUserConfig({
         link: 'https://tohex.cc',
       },
     ],
-    //commentConfig: {
-    //  type: 'valine',
-    //  options: {
-    //    appId: 'xxx',
-    //    appKey: 'xxx',
-    //    placeholder: '填写邮箱可以收到回复提醒哦！',
-    //    verify: true,
-    //    notify: true,
-    //    recordIP: true,
-    //    hideComments: true
-    //  },
-    //}, 
   }),
 });
