@@ -39,16 +39,16 @@ export default defineUserConfig({
         { type: 'title', content: 'XtremeWave网站开发招募' },
         {
           type: 'text',
-          content: `在您阅读完<a herf="https://www.xtreme.net.cn/933187.html">本文章</a>后,请联系QingFeng。`,
+          content: `若您想要加入我们,在您阅读完<a href="https://www.xtreme.net.cn/933187.html">'加入XtremeWave'</a>文章后,请联系QingFeng。`,
           style: 'font-size: 12px;'
         },
         { type: 'hr' },
         {
           type: 'buttongroup',
           children: [
-            { text: '打赏', link: '/donate' }
-          ]
-        }
+            { text: '赞赏', link: '/donate' },
+          ],
+        },
       ],
     },
     friendshipLinks: [
