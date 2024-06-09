@@ -29,8 +29,8 @@ export default defineUserConfig({
       {
         text: 'XtremeWave项目',
         children: [
-          {text: 'TOHEX', link: 'https://tonex.cc'},
-          {text: 'TONEX', link: 'https://tohex.cc'},
+          {text: 'TOHEX', link: 'https://tohex.cc'},
+          {text: 'TONEX', link: 'https://tonex.cc'},
         ],
       },
     ],
