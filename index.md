@@ -9,7 +9,7 @@ modules:
 bannerBrand:
   bgImage: '/bg.svg'
   title: XtremeWave官网
-  description: Among Us Mod 优秀领导者
+  description: Among Us Mod 出色贡献者
   tagline: 
   buttons:
     - { text: 关于我们, link: '/about', type: 'plain'}
