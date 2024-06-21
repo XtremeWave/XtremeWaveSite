@@ -2,7 +2,6 @@ import { defineUserConfig } from "vuepress";
 import recoTheme from "vuepress-theme-reco";
 import { viteBundler } from '@vuepress/bundler-vite'
 import { webpackBundler } from '@vuepress/bundler-webpack'
-import { Xicon } from '@carbon/icons-react';
 
 export default defineUserConfig({
   lang: 'zh-CN',
@@ -17,7 +16,6 @@ export default defineUserConfig({
     repo: 'XtremeWave/XtremeWaveite',
     docsRepo: 'https://github.com/XtremeWave/XtremeWaveSite',
     docsBranch: 'main',
-    lastUpdated: 'false',
     style: "@vuepress-reco/style-default",
     logo: "https://cn-sy1.rains3.com/xtremewave/XtremeWave.png",
     author: "XtremeWave",

@@ -14,7 +14,7 @@ bannerBrand:
   buttons:
     - { text: 关于我们, link: '/about', type: 'plain'}
     - { text: 赞助我们, link: '/donate'}
-    - { text: XW项目, link: 'https://pre.xtreme.net.cn/friendship-link.html', type: 'plain'}
+    - { text: XW项目, link: '/friendship-link.html', type: 'plain'}
 features:
 - title: TOHEX
   details: 为延续TOHE的香火而衍生的分支
