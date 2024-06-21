@@ -13,7 +13,7 @@ export default defineUserConfig({
     home: 'index.md',
     primaryColor: '#59a3e2',
     catalogTitle: '目录',
-    repo: 'XtremeWave/XtremeWaveite',
+    repo: 'XtremeWave/XtremeWaveSite',
     docsRepo: 'https://github.com/XtremeWave/XtremeWaveSite',
     docsBranch: 'main',
     style: "@vuepress-reco/style-default",
