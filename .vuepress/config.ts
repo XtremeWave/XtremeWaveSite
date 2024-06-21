@@ -31,6 +31,7 @@ export default defineUserConfig({
           {text: 'TONEX', link: 'https://tonex.cc'},
         ],
       },
+      {text: '服务状态', link: 'https://status.qingfengawa.me/status/xtremewave'},
     ],
     bulletin: {
       body: [
