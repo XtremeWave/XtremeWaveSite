@@ -15,7 +15,6 @@ XtremeWave使用现代技术栈如TypeScript和VuePress来开发和维护他们�
  - ZEYAN: TONEX开发者
  - 玖咪: TONEX开发者
  - QingFeng: 网站开发 | TONEX车队姬维护
- - ~~空水梦冰: 网站开发~~
 ### 文创组成员
  - 崩pz衫: USF剧情设计
  - 小黄117: TONEX美术
@@ -27,5 +26,6 @@ XtremeWave使用现代技术栈如TypeScript和VuePress来开发和维护他们�
  - JMS: TONEX推广
  - 刻刻刻刻刻薄: TONEX推广
  - 念情丶: TONEX文本设计
+ - 空水梦冰: 角色设计
  - ㍿: TONEX角色设计
  - 中立小黑: 翻译
