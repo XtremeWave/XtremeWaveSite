@@ -29,8 +29,8 @@ footer:
 
 ## XtremeWave的赞助者们
 ### Slok7565的赞助者们
-QingFeng 赞助了Slok7565 60元<br>
-崩pz衫 赞助了Slok7565 50元<br>
+<font color=#667180>QingFeng 赞助了Slok7565 60元<br>
+</font>崩pz衫 赞助了Slok7565 50元<br>
 ETERAK 赞助了Slok7565 25元<br>
 TaoLe_di 赞助了Slok7565 20元<br>
 B站小武同学102 赞助了Slok7565 20元<br>
@@ -54,9 +54,9 @@ Pcx 赞助了Slok7565 5元<br>
 </div>
 
 ### QingFeng的赞助者们
-Not-Orange 赞助了QingFeng 100元<br>
-Slok7565 赞助了QingFeng 72元<br>
-B站小武同学102 赞助了QingFeng 47元<br>
+<font color=#dc8f6b>Not-Orange 赞助了QingFeng 100元<br>
+</font><font color=#9edbff>Slok7565 赞助了QingFeng 72元<br>
+</font>B站小武同学102 赞助了QingFeng 47元<br>
 橙 赞助了QingFeng 12.01元<br>
 一只小黑懋 赞助了QingFeng 10元<br>
 空水梦冰 赞助了QingFeng 10元<br>
