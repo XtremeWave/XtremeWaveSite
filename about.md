@@ -28,4 +28,4 @@ XtremeWave使用现代技术栈如TypeScript和VuePress来开发和维护他们�
  - 刻刻刻刻刻薄: TONEX推广
  - 念情丶: TONEX文本设计
  - ㍿: TONEX角色设计
- - 中立小黑: TONEX角色设计
+ - 中立小黑: 翻译
