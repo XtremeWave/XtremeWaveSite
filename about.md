@@ -21,6 +21,7 @@ XtremeWave使用现代技术栈如TypeScript和VuePress来开发和维护他们�
  - 小黄117: TONEX美术
  - 核聚变砂糖橘TvT: TONEX美术
  - Crewmate Ender &amp; Impostor Ender: TONEX美术
+ - 照路行不行: TONEX美术
  - caaattt: TONEX美术
  - Hartex: TONEX推广
  - JMS: TONEX推广
