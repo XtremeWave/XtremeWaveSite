@@ -7,11 +7,11 @@ export default defineUserConfig({
   lang: 'zh-CN',
   head: [['link', { rel: 'icon', href: 'https://cn-sy1.rains3.com/xtremewave/XtremeWave.png' }]],  
   title: 'XtremeWave官方网站',
-  description: "Among Us Mod 优秀领导者",
+  description: "Among Us Mod 出色贡献者",
   bundler: viteBundler(),
   theme: recoTheme({
     home: 'index.md',
-    primaryColor: '#59a3e2',
+    primaryColor: '#586fd7',
     catalogTitle: '目录',
     repo: 'XtremeWave/XtremeWaveSite',
     docsRepo: 'https://github.com/XtremeWave/XtremeWaveSite',
@@ -35,6 +35,13 @@ export default defineUserConfig({
     ],
     bulletin: {
       body: [
+        { type: 'title', content: 'XtremeWave项目“TONEX文档”暂时暂停开发的通知' },
+        {
+          type: 'text',
+          content: `因开发者个人原因,TONEX文档项目将暂时停止维护,感谢您的理解。<br><i>我们不会无限期停更该项目。</i>`,
+          style: 'font-size: 12px;'
+        },
+        { type: 'hr' },
         { type: 'title', content: 'XtremeWave网站开发招募' },
         {
           type: 'text',

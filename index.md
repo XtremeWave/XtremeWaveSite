@@ -7,8 +7,7 @@ modules:
   - MdContent
   - Footer
 bannerBrand:
-  bgImage: '/bg.svg'
-  title: XtremeWave官网
+  bgImage: 'https://cn-sy1.rains3.com/xtremewave/XtremeWave-BG.png'
   description: Among Us Mod 出色贡献者
   tagline: 
   buttons:
